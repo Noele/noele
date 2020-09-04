@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Heya, I'm Noele!</h1>
+<h3 align="center">Student @ Fife College, Studying Software Development</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noele" alt="noele" /> </p>
 
-<!--
-**Noele/noele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 You can contact me at
+  - Discord: `noele#0001`
 
-Here are some ideas to get you started:
+### ⚙️ I’m currently working on
+  - [Twitch Chat Bot](https://github.com/Noele/Twitch-Chat-Bot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Some future projects I plan to work on are
+  - Python cellular automata
+  - Discord Api Wrapper
+  
+
+![Noele's github stats](https://github-readme-stats.vercel.app/api?username=noele&hide=stars,issues)
