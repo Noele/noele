@@ -7,7 +7,7 @@
 
 ### ⚙️ I’m currently working on
   - [Twitch Chat Bot](https://github.com/Noele/Twitch-Chat-Bot)
-  - [Cellular automata](https://github.com/Noele/Python-cellular-automata)
+  - [Cellular automata](https://github.com/Noele/Python-cellular-automata) (on hold)
 
 ### 🚀 Some future projects I plan to work on are
   - Discord Api Wrapper
