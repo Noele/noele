@@ -11,6 +11,6 @@
 
 ### 🚀 Some future projects I plan to work on are
   - Discord Api Wrapper
-  
+  - VoIP App
 
 ![Noele's github stats](https://github-readme-stats.vercel.app/api?username=noele&hide=stars,issues)
