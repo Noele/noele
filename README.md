@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noele" alt="noele" /> </p>
 
 ### 📫 You can contact me at
-  - Discord: `noele#0001`
+  - Discord: `Spice#1823`
 
 ### ⚙️ I’m currently working on
   - [Twitch Chat Bot](https://github.com/Noele/Twitch-Chat-Bot)
