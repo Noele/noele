@@ -3,14 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noele" alt="noele" /> </p>
 
 ### 📫 You can contact me at
-  - Discord: `Spice#1823`
+  - Discord: `Ziypie#1823`
 
 ### ⚙️ I’m currently working on
-  - [Twitch Chat Bot](https://github.com/Noele/Twitch-Chat-Bot)
   - [Cherri](https://github.com/Noele/Cherri)
 
 ### 🚀 Some future projects I plan to work on are
-  - Discord Api Wrapper
-  - VoIP App
+  - 
 
 ![Noele's github stats](https://github-readme-stats.vercel.app/api?username=noele&hide=stars,issues)
