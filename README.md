@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noele" alt="noele" /> </p>
 
 ### 📫 You can contact me at
-  - Discord: `Bunny#6787`
+  - Discord: `Ziypie#6787`
 
 ### ⚙️ I’m currently working on
   - [Cherri](https://github.com/Noele/Cherri)
