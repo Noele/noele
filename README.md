@@ -6,7 +6,7 @@
   - Discord: `Ziypie#6787`
 
 ### ⚙️ I’m currently working on
-  - [Cherri](https://github.com/Noele/Cherri)
+  - [Caitlyn](https://github.com/Noele/Caitlyn))
 
 ### 🚀 Some future projects I plan to work on are
   - 
