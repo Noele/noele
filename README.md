@@ -6,7 +6,7 @@
   - Discord: `Ziypie#6787`
 
 ### ⚙️ I’m currently working on
-  - [Myself](https://github.com/Noele/noele), Projects on hold.
+  - [Myself](https://github.com/Noele), Projects on hold.
 
 ### 🚀 Some future projects I plan to work on are
   - A robot that takes over the world piloted by a rat
