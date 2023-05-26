@@ -1,4 +1,4 @@
-<h1 align="center">Heya, I'm Noele!</h1>
+<h1 align="center">Heya, I'm Zoey!</h1>
 <h3 align="center">Hobbyist Developer - Career Pending</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noele" alt="noele" /> </p>
 
