@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noele" alt="noele" /> </p>
 
 ### 📫 You can contact me at
-  - Discord: `Sarada#0369`
+  - Discord: `Zoey#6713`
 
 ### ⚙️ I’m currently working on
   - [Myself](https://github.com/Noele), Projects on hold.
